@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "name": "Enable Copy/Paste",
+  "name": "Cws test",
   "description": "Enable copy (CTRL+C or CMD+C) / paste (CTRL+P or CMD+P) on websites that needlessly block it.",
   "version": "1.0",
   "author": "Dominic Fallows",
